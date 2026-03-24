@@ -1,0 +1,3472 @@
+{
+  "search_metadata": {
+    "id": "69c13ca28c60ca343e13f118",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/JIoL7Wc7dkQJESihl5MLuA/69c13ca28c60ca343e13f118.json",
+    "created_at": "2026-03-23 13:14:10 UTC",
+    "processed_at": "2026-03-23 13:14:10 UTC",
+    "google_finance_url": "https://www.google.com/finance/quote/GOOGL:NASDAQ?hl=pt-br&window=1D",
+    "raw_html_file": "https://serpapi.com/searches/JIoL7Wc7dkQJESihl5MLuA/69c13ca28c60ca343e13f118.html",
+    "prettify_html_file": "https://serpapi.com/searches/JIoL7Wc7dkQJESihl5MLuA/69c13ca28c60ca343e13f118.prettify",
+    "total_time_taken": 0.62
+  },
+  "search_parameters": {
+    "engine": "google_finance",
+    "q": "GOOGL:NASDAQ",
+    "hl": "pt-br",
+    "window": "1D"
+  },
+  "graph": [
+    {
+      "price": 305.49,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:30 AM UTC-04:00",
+      "volume": 24592
+    },
+    {
+      "price": 305.34,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:31 AM UTC-04:00",
+      "volume": 100
+    },
+    {
+      "price": 303.945,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:32 AM UTC-04:00",
+      "volume": 63776
+    },
+    {
+      "price": 303.425,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:33 AM UTC-04:00",
+      "volume": 89929
+    },
+    {
+      "price": 303.14,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:34 AM UTC-04:00",
+      "volume": 87702
+    },
+    {
+      "price": 303.23,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:35 AM UTC-04:00",
+      "volume": 98632
+    },
+    {
+      "price": 303.75,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:36 AM UTC-04:00",
+      "volume": 62452
+    },
+    {
+      "price": 304.26,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:37 AM UTC-04:00",
+      "volume": 55532
+    },
+    {
+      "price": 303.995,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:38 AM UTC-04:00",
+      "volume": 34300
+    },
+    {
+      "price": 304.0734,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:39 AM UTC-04:00",
+      "volume": 45104
+    },
+    {
+      "price": 303.96,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:40 AM UTC-04:00",
+      "volume": 59265
+    },
+    {
+      "price": 304.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:41 AM UTC-04:00",
+      "volume": 38100
+    },
+    {
+      "price": 304.17,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:42 AM UTC-04:00",
+      "volume": 31993
+    },
+    {
+      "price": 303.56,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:43 AM UTC-04:00",
+      "volume": 42291
+    },
+    {
+      "price": 303.67,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:44 AM UTC-04:00",
+      "volume": 36877
+    },
+    {
+      "price": 304.11,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:45 AM UTC-04:00",
+      "volume": 101231
+    },
+    {
+      "price": 304.06,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:46 AM UTC-04:00",
+      "volume": 39016
+    },
+    {
+      "price": 303.425,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:47 AM UTC-04:00",
+      "volume": 58872
+    },
+    {
+      "price": 303.79,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:48 AM UTC-04:00",
+      "volume": 24544
+    },
+    {
+      "price": 303.65,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:49 AM UTC-04:00",
+      "volume": 19072
+    },
+    {
+      "price": 303.145,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:50 AM UTC-04:00",
+      "volume": 31473
+    },
+    {
+      "price": 302.405,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:51 AM UTC-04:00",
+      "volume": 53032
+    },
+    {
+      "price": 302.46,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:52 AM UTC-04:00",
+      "volume": 40652
+    },
+    {
+      "price": 302.24,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:53 AM UTC-04:00",
+      "volume": 38045
+    },
+    {
+      "price": 302.215,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:54 AM UTC-04:00",
+      "volume": 48976
+    },
+    {
+      "price": 302.47,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:55 AM UTC-04:00",
+      "volume": 54516
+    },
+    {
+      "price": 302.4,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:56 AM UTC-04:00",
+      "volume": 51451
+    },
+    {
+      "price": 302.3901,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:57 AM UTC-04:00",
+      "volume": 22938
+    },
+    {
+      "price": 302.22,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:58 AM UTC-04:00",
+      "volume": 26897
+    },
+    {
+      "price": 301.87,
+      "currency": "USD",
+      "date": "Mar 20 2026, 09:59 AM UTC-04:00",
+      "volume": 59355
+    },
+    {
+      "price": 302.07,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:00 AM UTC-04:00",
+      "volume": 44176
+    },
+    {
+      "price": 301.86,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:01 AM UTC-04:00",
+      "volume": 38489
+    },
+    {
+      "price": 301.66,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:02 AM UTC-04:00",
+      "volume": 41761
+    },
+    {
+      "price": 302.06,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:03 AM UTC-04:00",
+      "volume": 64544
+    },
+    {
+      "price": 301.86,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:04 AM UTC-04:00",
+      "volume": 38079
+    },
+    {
+      "price": 301.785,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:05 AM UTC-04:00",
+      "volume": 39734
+    },
+    {
+      "price": 302.13,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:06 AM UTC-04:00",
+      "volume": 34769
+    },
+    {
+      "price": 302.21,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:07 AM UTC-04:00",
+      "volume": 21736
+    },
+    {
+      "price": 301.9,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:08 AM UTC-04:00",
+      "volume": 54376
+    },
+    {
+      "price": 301.76,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:09 AM UTC-04:00",
+      "volume": 26806
+    },
+    {
+      "price": 301.925,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:10 AM UTC-04:00",
+      "volume": 42897
+    },
+    {
+      "price": 302.26,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:11 AM UTC-04:00",
+      "volume": 42884
+    },
+    {
+      "price": 302.11,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:12 AM UTC-04:00",
+      "volume": 31865
+    },
+    {
+      "price": 302.06,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:13 AM UTC-04:00",
+      "volume": 32305
+    },
+    {
+      "price": 301.7599,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:14 AM UTC-04:00",
+      "volume": 28860
+    },
+    {
+      "price": 301.93,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:15 AM UTC-04:00",
+      "volume": 47761
+    },
+    {
+      "price": 302.48,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:16 AM UTC-04:00",
+      "volume": 53382
+    },
+    {
+      "price": 302.375,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:17 AM UTC-04:00",
+      "volume": 39323
+    },
+    {
+      "price": 302.71,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:18 AM UTC-04:00",
+      "volume": 35243
+    },
+    {
+      "price": 302.4305,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:19 AM UTC-04:00",
+      "volume": 21797
+    },
+    {
+      "price": 302.49,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:20 AM UTC-04:00",
+      "volume": 16753
+    },
+    {
+      "price": 302.445,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:21 AM UTC-04:00",
+      "volume": 20802
+    },
+    {
+      "price": 302.23,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:22 AM UTC-04:00",
+      "volume": 47461
+    },
+    {
+      "price": 302.57,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:23 AM UTC-04:00",
+      "volume": 23448
+    },
+    {
+      "price": 302.79,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:24 AM UTC-04:00",
+      "volume": 11538
+    },
+    {
+      "price": 302.76,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:25 AM UTC-04:00",
+      "volume": 14155
+    },
+    {
+      "price": 302.625,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:26 AM UTC-04:00",
+      "volume": 17521
+    },
+    {
+      "price": 302.66,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:27 AM UTC-04:00",
+      "volume": 10489
+    },
+    {
+      "price": 302.17,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:28 AM UTC-04:00",
+      "volume": 38077
+    },
+    {
+      "price": 302.21,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:29 AM UTC-04:00",
+      "volume": 10535
+    },
+    {
+      "price": 302.27,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:30 AM UTC-04:00",
+      "volume": 16620
+    },
+    {
+      "price": 302.57,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:31 AM UTC-04:00",
+      "volume": 16045
+    },
+    {
+      "price": 302.45,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:32 AM UTC-04:00",
+      "volume": 13122
+    },
+    {
+      "price": 302.47,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:33 AM UTC-04:00",
+      "volume": 16798
+    },
+    {
+      "price": 302.35,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:34 AM UTC-04:00",
+      "volume": 20673
+    },
+    {
+      "price": 302.415,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:35 AM UTC-04:00",
+      "volume": 30326
+    },
+    {
+      "price": 302.31,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:36 AM UTC-04:00",
+      "volume": 30138
+    },
+    {
+      "price": 302.24,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:37 AM UTC-04:00",
+      "volume": 29964
+    },
+    {
+      "price": 302.13,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:38 AM UTC-04:00",
+      "volume": 34407
+    },
+    {
+      "price": 301.94,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:39 AM UTC-04:00",
+      "volume": 19686
+    },
+    {
+      "price": 302.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:40 AM UTC-04:00",
+      "volume": 29294
+    },
+    {
+      "price": 302.2,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:41 AM UTC-04:00",
+      "volume": 36642
+    },
+    {
+      "price": 301.87,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:42 AM UTC-04:00",
+      "volume": 28894
+    },
+    {
+      "price": 301.99,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:43 AM UTC-04:00",
+      "volume": 44805
+    },
+    {
+      "price": 301.83,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:44 AM UTC-04:00",
+      "volume": 16919
+    },
+    {
+      "price": 301.87,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:45 AM UTC-04:00",
+      "volume": 26849
+    },
+    {
+      "price": 301.87,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:46 AM UTC-04:00",
+      "volume": 25934
+    },
+    {
+      "price": 302.1917,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:47 AM UTC-04:00",
+      "volume": 40971
+    },
+    {
+      "price": 302.255,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:48 AM UTC-04:00",
+      "volume": 18822
+    },
+    {
+      "price": 302.45,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:49 AM UTC-04:00",
+      "volume": 21924
+    },
+    {
+      "price": 302.69,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:50 AM UTC-04:00",
+      "volume": 24871
+    },
+    {
+      "price": 302.46,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:51 AM UTC-04:00",
+      "volume": 11276
+    },
+    {
+      "price": 302.38,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:52 AM UTC-04:00",
+      "volume": 13048
+    },
+    {
+      "price": 302.13,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:53 AM UTC-04:00",
+      "volume": 34546
+    },
+    {
+      "price": 301.965,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:54 AM UTC-04:00",
+      "volume": 39956
+    },
+    {
+      "price": 301.99,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:55 AM UTC-04:00",
+      "volume": 46801
+    },
+    {
+      "price": 302.24,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:56 AM UTC-04:00",
+      "volume": 46457
+    },
+    {
+      "price": 301.91,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:57 AM UTC-04:00",
+      "volume": 26938
+    },
+    {
+      "price": 302.085,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:58 AM UTC-04:00",
+      "volume": 24512
+    },
+    {
+      "price": 301.98,
+      "currency": "USD",
+      "date": "Mar 20 2026, 10:59 AM UTC-04:00",
+      "volume": 13114
+    },
+    {
+      "price": 301.825,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:00 AM UTC-04:00",
+      "volume": 26650
+    },
+    {
+      "price": 302.05,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:01 AM UTC-04:00",
+      "volume": 34780
+    },
+    {
+      "price": 301.97,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:02 AM UTC-04:00",
+      "volume": 25097
+    },
+    {
+      "price": 301.5,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:03 AM UTC-04:00",
+      "volume": 20480
+    },
+    {
+      "price": 301.12,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:04 AM UTC-04:00",
+      "volume": 32747
+    },
+    {
+      "price": 301.2,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:05 AM UTC-04:00",
+      "volume": 45857
+    },
+    {
+      "price": 301.41,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:06 AM UTC-04:00",
+      "volume": 60624
+    },
+    {
+      "price": 301.15,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:07 AM UTC-04:00",
+      "volume": 73321
+    },
+    {
+      "price": 301.2,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:08 AM UTC-04:00",
+      "volume": 25765
+    },
+    {
+      "price": 300.97,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:09 AM UTC-04:00",
+      "volume": 31746
+    },
+    {
+      "price": 300.86,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:10 AM UTC-04:00",
+      "volume": 26829
+    },
+    {
+      "price": 301.08,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:11 AM UTC-04:00",
+      "volume": 47766
+    },
+    {
+      "price": 301.365,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:12 AM UTC-04:00",
+      "volume": 32603
+    },
+    {
+      "price": 301.57,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:13 AM UTC-04:00",
+      "volume": 15861
+    },
+    {
+      "price": 301.42,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:14 AM UTC-04:00",
+      "volume": 25550
+    },
+    {
+      "price": 301.51,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:15 AM UTC-04:00",
+      "volume": 19662
+    },
+    {
+      "price": 301.4,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:16 AM UTC-04:00",
+      "volume": 25342
+    },
+    {
+      "price": 301.22,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:17 AM UTC-04:00",
+      "volume": 24059
+    },
+    {
+      "price": 301.275,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:18 AM UTC-04:00",
+      "volume": 18510
+    },
+    {
+      "price": 300.99,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:19 AM UTC-04:00",
+      "volume": 37698
+    },
+    {
+      "price": 300.965,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:20 AM UTC-04:00",
+      "volume": 37194
+    },
+    {
+      "price": 301.11,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:21 AM UTC-04:00",
+      "volume": 21761
+    },
+    {
+      "price": 301.25,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:22 AM UTC-04:00",
+      "volume": 24244
+    },
+    {
+      "price": 301.19,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:23 AM UTC-04:00",
+      "volume": 11753
+    },
+    {
+      "price": 301.78,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:24 AM UTC-04:00",
+      "volume": 66008
+    },
+    {
+      "price": 301.46,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:25 AM UTC-04:00",
+      "volume": 34673
+    },
+    {
+      "price": 301.31,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:26 AM UTC-04:00",
+      "volume": 28841
+    },
+    {
+      "price": 301.12,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:27 AM UTC-04:00",
+      "volume": 28910
+    },
+    {
+      "price": 301.41,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:28 AM UTC-04:00",
+      "volume": 35911
+    },
+    {
+      "price": 301.33,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:29 AM UTC-04:00",
+      "volume": 21026
+    },
+    {
+      "price": 301.26,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:30 AM UTC-04:00",
+      "volume": 16899
+    },
+    {
+      "price": 301.11,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:31 AM UTC-04:00",
+      "volume": 25692
+    },
+    {
+      "price": 301.175,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:32 AM UTC-04:00",
+      "volume": 25008
+    },
+    {
+      "price": 301.325,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:33 AM UTC-04:00",
+      "volume": 10401
+    },
+    {
+      "price": 301.485,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:34 AM UTC-04:00",
+      "volume": 17316
+    },
+    {
+      "price": 301.47,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:35 AM UTC-04:00",
+      "volume": 10627
+    },
+    {
+      "price": 301.3,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:36 AM UTC-04:00",
+      "volume": 17900
+    },
+    {
+      "price": 301.3,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:37 AM UTC-04:00",
+      "volume": 12928
+    },
+    {
+      "price": 301.44,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:38 AM UTC-04:00",
+      "volume": 19602
+    },
+    {
+      "price": 301.485,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:39 AM UTC-04:00",
+      "volume": 10823
+    },
+    {
+      "price": 301.46,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:40 AM UTC-04:00",
+      "volume": 6632
+    },
+    {
+      "price": 301.56,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:41 AM UTC-04:00",
+      "volume": 9502
+    },
+    {
+      "price": 301.58,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:42 AM UTC-04:00",
+      "volume": 9023
+    },
+    {
+      "price": 301.66,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:43 AM UTC-04:00",
+      "volume": 9506
+    },
+    {
+      "price": 301.79,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:44 AM UTC-04:00",
+      "volume": 25786
+    },
+    {
+      "price": 301.835,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:45 AM UTC-04:00",
+      "volume": 9325
+    },
+    {
+      "price": 301.81,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:46 AM UTC-04:00",
+      "volume": 28465
+    },
+    {
+      "price": 301.6,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:47 AM UTC-04:00",
+      "volume": 20929
+    },
+    {
+      "price": 301.85,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:48 AM UTC-04:00",
+      "volume": 21161
+    },
+    {
+      "price": 301.835,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:49 AM UTC-04:00",
+      "volume": 13928
+    },
+    {
+      "price": 301.79,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:50 AM UTC-04:00",
+      "volume": 19779
+    },
+    {
+      "price": 301.68,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:51 AM UTC-04:00",
+      "volume": 30130
+    },
+    {
+      "price": 301.69,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:52 AM UTC-04:00",
+      "volume": 9085
+    },
+    {
+      "price": 302.04,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:53 AM UTC-04:00",
+      "volume": 13226
+    },
+    {
+      "price": 301.89,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:54 AM UTC-04:00",
+      "volume": 8769
+    },
+    {
+      "price": 301.88,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:55 AM UTC-04:00",
+      "volume": 8844
+    },
+    {
+      "price": 301.98,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:56 AM UTC-04:00",
+      "volume": 16266
+    },
+    {
+      "price": 302.07,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:57 AM UTC-04:00",
+      "volume": 13515
+    },
+    {
+      "price": 302.04,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:58 AM UTC-04:00",
+      "volume": 21805
+    },
+    {
+      "price": 302.1253,
+      "currency": "USD",
+      "date": "Mar 20 2026, 11:59 AM UTC-04:00",
+      "volume": 8844
+    },
+    {
+      "price": 302.01,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:00 PM UTC-04:00",
+      "volume": 5571
+    },
+    {
+      "price": 302.07,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:01 PM UTC-04:00",
+      "volume": 6860
+    },
+    {
+      "price": 302.04,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:02 PM UTC-04:00",
+      "volume": 8354
+    },
+    {
+      "price": 302.165,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:03 PM UTC-04:00",
+      "volume": 9282
+    },
+    {
+      "price": 302.44,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:04 PM UTC-04:00",
+      "volume": 12300
+    },
+    {
+      "price": 302.42,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:05 PM UTC-04:00",
+      "volume": 16973
+    },
+    {
+      "price": 302.61,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:06 PM UTC-04:00",
+      "volume": 6628
+    },
+    {
+      "price": 302.695,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:07 PM UTC-04:00",
+      "volume": 17010
+    },
+    {
+      "price": 302.52,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:08 PM UTC-04:00",
+      "volume": 13001
+    },
+    {
+      "price": 302.45,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:09 PM UTC-04:00",
+      "volume": 13850
+    },
+    {
+      "price": 302.3201,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:10 PM UTC-04:00",
+      "volume": 21497
+    },
+    {
+      "price": 302.37,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:11 PM UTC-04:00",
+      "volume": 23097
+    },
+    {
+      "price": 302.425,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:12 PM UTC-04:00",
+      "volume": 7932
+    },
+    {
+      "price": 302.35,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:13 PM UTC-04:00",
+      "volume": 9955
+    },
+    {
+      "price": 302.39,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:14 PM UTC-04:00",
+      "volume": 10141
+    },
+    {
+      "price": 302.33,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:15 PM UTC-04:00",
+      "volume": 15184
+    },
+    {
+      "price": 302.26,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:16 PM UTC-04:00",
+      "volume": 13822
+    },
+    {
+      "price": 302.21,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:17 PM UTC-04:00",
+      "volume": 16996
+    },
+    {
+      "price": 302.36,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:18 PM UTC-04:00",
+      "volume": 9465
+    },
+    {
+      "price": 302.53,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:19 PM UTC-04:00",
+      "volume": 13019
+    },
+    {
+      "price": 302.57,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:20 PM UTC-04:00",
+      "volume": 23437
+    },
+    {
+      "price": 302.59,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:21 PM UTC-04:00",
+      "volume": 19383
+    },
+    {
+      "price": 302.47,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:22 PM UTC-04:00",
+      "volume": 9136
+    },
+    {
+      "price": 302.49,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:23 PM UTC-04:00",
+      "volume": 6409
+    },
+    {
+      "price": 302.4001,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:24 PM UTC-04:00",
+      "volume": 11709
+    },
+    {
+      "price": 302.44,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:25 PM UTC-04:00",
+      "volume": 11097
+    },
+    {
+      "price": 302.43,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:26 PM UTC-04:00",
+      "volume": 11564
+    },
+    {
+      "price": 302.285,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:27 PM UTC-04:00",
+      "volume": 6611
+    },
+    {
+      "price": 302.28,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:28 PM UTC-04:00",
+      "volume": 13029
+    },
+    {
+      "price": 302.09,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:29 PM UTC-04:00",
+      "volume": 26598
+    },
+    {
+      "price": 302.0301,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:30 PM UTC-04:00",
+      "volume": 18905
+    },
+    {
+      "price": 301.95,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:31 PM UTC-04:00",
+      "volume": 18386
+    },
+    {
+      "price": 301.93,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:32 PM UTC-04:00",
+      "volume": 34642
+    },
+    {
+      "price": 301.76,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:33 PM UTC-04:00",
+      "volume": 35405
+    },
+    {
+      "price": 301.92,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:34 PM UTC-04:00",
+      "volume": 28038
+    },
+    {
+      "price": 301.85,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:35 PM UTC-04:00",
+      "volume": 18316
+    },
+    {
+      "price": 301.73,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:36 PM UTC-04:00",
+      "volume": 21183
+    },
+    {
+      "price": 301.89,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:37 PM UTC-04:00",
+      "volume": 11726
+    },
+    {
+      "price": 301.87,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:38 PM UTC-04:00",
+      "volume": 30425
+    },
+    {
+      "price": 301.72,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:39 PM UTC-04:00",
+      "volume": 25406
+    },
+    {
+      "price": 301.75,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:40 PM UTC-04:00",
+      "volume": 23888
+    },
+    {
+      "price": 301.67,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:41 PM UTC-04:00",
+      "volume": 21029
+    },
+    {
+      "price": 301.5501,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:42 PM UTC-04:00",
+      "volume": 15572
+    },
+    {
+      "price": 301.585,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:43 PM UTC-04:00",
+      "volume": 7595
+    },
+    {
+      "price": 301.665,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:44 PM UTC-04:00",
+      "volume": 13820
+    },
+    {
+      "price": 301.6,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:45 PM UTC-04:00",
+      "volume": 17099
+    },
+    {
+      "price": 301.615,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:46 PM UTC-04:00",
+      "volume": 15327
+    },
+    {
+      "price": 301.735,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:47 PM UTC-04:00",
+      "volume": 26679
+    },
+    {
+      "price": 301.41,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:48 PM UTC-04:00",
+      "volume": 42341
+    },
+    {
+      "price": 301.36,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:49 PM UTC-04:00",
+      "volume": 30650
+    },
+    {
+      "price": 301.4,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:50 PM UTC-04:00",
+      "volume": 18303
+    },
+    {
+      "price": 301.31,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:51 PM UTC-04:00",
+      "volume": 29311
+    },
+    {
+      "price": 301.005,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:52 PM UTC-04:00",
+      "volume": 55718
+    },
+    {
+      "price": 301.205,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:53 PM UTC-04:00",
+      "volume": 13995
+    },
+    {
+      "price": 301.21,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:54 PM UTC-04:00",
+      "volume": 16969
+    },
+    {
+      "price": 301.15,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:55 PM UTC-04:00",
+      "volume": 17563
+    },
+    {
+      "price": 301.44,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:56 PM UTC-04:00",
+      "volume": 15591
+    },
+    {
+      "price": 301.36,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:57 PM UTC-04:00",
+      "volume": 19465
+    },
+    {
+      "price": 301.225,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:58 PM UTC-04:00",
+      "volume": 16189
+    },
+    {
+      "price": 301.21,
+      "currency": "USD",
+      "date": "Mar 20 2026, 12:59 PM UTC-04:00",
+      "volume": 12315
+    },
+    {
+      "price": 300.97,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:00 PM UTC-04:00",
+      "volume": 25549
+    },
+    {
+      "price": 301.04,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:01 PM UTC-04:00",
+      "volume": 15597
+    },
+    {
+      "price": 301.19,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:02 PM UTC-04:00",
+      "volume": 12931
+    },
+    {
+      "price": 301.235,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:03 PM UTC-04:00",
+      "volume": 9018
+    },
+    {
+      "price": 301.34,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:04 PM UTC-04:00",
+      "volume": 56273
+    },
+    {
+      "price": 301.23,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:05 PM UTC-04:00",
+      "volume": 15692
+    },
+    {
+      "price": 300.83,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:06 PM UTC-04:00",
+      "volume": 41660
+    },
+    {
+      "price": 300.84,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:07 PM UTC-04:00",
+      "volume": 30684
+    },
+    {
+      "price": 300.89,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:08 PM UTC-04:00",
+      "volume": 30707
+    },
+    {
+      "price": 300.9201,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:09 PM UTC-04:00",
+      "volume": 14118
+    },
+    {
+      "price": 300.91,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:10 PM UTC-04:00",
+      "volume": 12997
+    },
+    {
+      "price": 300.81,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:11 PM UTC-04:00",
+      "volume": 10137
+    },
+    {
+      "price": 300.77,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:12 PM UTC-04:00",
+      "volume": 15723
+    },
+    {
+      "price": 300.64,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:13 PM UTC-04:00",
+      "volume": 18717
+    },
+    {
+      "price": 300.65,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:14 PM UTC-04:00",
+      "volume": 7391
+    },
+    {
+      "price": 300.79,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:15 PM UTC-04:00",
+      "volume": 40507
+    },
+    {
+      "price": 300.8,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:16 PM UTC-04:00",
+      "volume": 25685
+    },
+    {
+      "price": 300.76,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:17 PM UTC-04:00",
+      "volume": 55477
+    },
+    {
+      "price": 300.77,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:18 PM UTC-04:00",
+      "volume": 169279
+    },
+    {
+      "price": 300.59,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:19 PM UTC-04:00",
+      "volume": 17011
+    },
+    {
+      "price": 300.47,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:20 PM UTC-04:00",
+      "volume": 52420
+    },
+    {
+      "price": 300.495,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:21 PM UTC-04:00",
+      "volume": 40630
+    },
+    {
+      "price": 300.54,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:22 PM UTC-04:00",
+      "volume": 14916
+    },
+    {
+      "price": 300.69,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:23 PM UTC-04:00",
+      "volume": 35964
+    },
+    {
+      "price": 300.78,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:24 PM UTC-04:00",
+      "volume": 16935
+    },
+    {
+      "price": 300.825,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:25 PM UTC-04:00",
+      "volume": 15739
+    },
+    {
+      "price": 300.71,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:26 PM UTC-04:00",
+      "volume": 16358
+    },
+    {
+      "price": 300.67,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:27 PM UTC-04:00",
+      "volume": 5528
+    },
+    {
+      "price": 300.81,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:28 PM UTC-04:00",
+      "volume": 17921
+    },
+    {
+      "price": 300.735,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:29 PM UTC-04:00",
+      "volume": 21900
+    },
+    {
+      "price": 300.72,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:30 PM UTC-04:00",
+      "volume": 11748
+    },
+    {
+      "price": 300.75,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:31 PM UTC-04:00",
+      "volume": 10601
+    },
+    {
+      "price": 300.6,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:32 PM UTC-04:00",
+      "volume": 9636
+    },
+    {
+      "price": 300.335,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:33 PM UTC-04:00",
+      "volume": 28850
+    },
+    {
+      "price": 300.4,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:34 PM UTC-04:00",
+      "volume": 12661
+    },
+    {
+      "price": 300.485,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:35 PM UTC-04:00",
+      "volume": 17347
+    },
+    {
+      "price": 300.4601,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:36 PM UTC-04:00",
+      "volume": 22103
+    },
+    {
+      "price": 300.36,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:37 PM UTC-04:00",
+      "volume": 21993
+    },
+    {
+      "price": 300.33,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:38 PM UTC-04:00",
+      "volume": 18246
+    },
+    {
+      "price": 300.4,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:39 PM UTC-04:00",
+      "volume": 28274
+    },
+    {
+      "price": 300.545,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:40 PM UTC-04:00",
+      "volume": 14067
+    },
+    {
+      "price": 300.6,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:41 PM UTC-04:00",
+      "volume": 14135
+    },
+    {
+      "price": 300.5801,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:42 PM UTC-04:00",
+      "volume": 14667
+    },
+    {
+      "price": 300.35,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:43 PM UTC-04:00",
+      "volume": 8025
+    },
+    {
+      "price": 300.19,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:44 PM UTC-04:00",
+      "volume": 12892
+    },
+    {
+      "price": 300.025,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:45 PM UTC-04:00",
+      "volume": 105262
+    },
+    {
+      "price": 299.93,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:46 PM UTC-04:00",
+      "volume": 14777
+    },
+    {
+      "price": 300.02,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:47 PM UTC-04:00",
+      "volume": 24887
+    },
+    {
+      "price": 299.91,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:48 PM UTC-04:00",
+      "volume": 39540
+    },
+    {
+      "price": 300.07,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:49 PM UTC-04:00",
+      "volume": 24301
+    },
+    {
+      "price": 300.06,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:50 PM UTC-04:00",
+      "volume": 28552
+    },
+    {
+      "price": 300.24,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:51 PM UTC-04:00",
+      "volume": 10737
+    },
+    {
+      "price": 300.32,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:52 PM UTC-04:00",
+      "volume": 19758
+    },
+    {
+      "price": 300.36,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:53 PM UTC-04:00",
+      "volume": 11300
+    },
+    {
+      "price": 300.33,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:54 PM UTC-04:00",
+      "volume": 9233
+    },
+    {
+      "price": 300.4601,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:55 PM UTC-04:00",
+      "volume": 34423
+    },
+    {
+      "price": 300.5,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:56 PM UTC-04:00",
+      "volume": 16151
+    },
+    {
+      "price": 300.44,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:57 PM UTC-04:00",
+      "volume": 20905
+    },
+    {
+      "price": 300.61,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:58 PM UTC-04:00",
+      "volume": 26467
+    },
+    {
+      "price": 300.38,
+      "currency": "USD",
+      "date": "Mar 20 2026, 01:59 PM UTC-04:00",
+      "volume": 17775
+    },
+    {
+      "price": 300.47,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:00 PM UTC-04:00",
+      "volume": 15815
+    },
+    {
+      "price": 300.43,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:01 PM UTC-04:00",
+      "volume": 10184
+    },
+    {
+      "price": 300.37,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:02 PM UTC-04:00",
+      "volume": 18118
+    },
+    {
+      "price": 300.4,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:03 PM UTC-04:00",
+      "volume": 8518
+    },
+    {
+      "price": 300.21,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:04 PM UTC-04:00",
+      "volume": 21860
+    },
+    {
+      "price": 299.96,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:05 PM UTC-04:00",
+      "volume": 31828
+    },
+    {
+      "price": 299.695,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:06 PM UTC-04:00",
+      "volume": 33841
+    },
+    {
+      "price": 299.87,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:07 PM UTC-04:00",
+      "volume": 27589
+    },
+    {
+      "price": 300.05,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:08 PM UTC-04:00",
+      "volume": 18874
+    },
+    {
+      "price": 299.81,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:09 PM UTC-04:00",
+      "volume": 24324
+    },
+    {
+      "price": 299.92,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:10 PM UTC-04:00",
+      "volume": 19688
+    },
+    {
+      "price": 299.75,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:11 PM UTC-04:00",
+      "volume": 12778
+    },
+    {
+      "price": 299.81,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:12 PM UTC-04:00",
+      "volume": 22339
+    },
+    {
+      "price": 299.89,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:13 PM UTC-04:00",
+      "volume": 14905
+    },
+    {
+      "price": 299.895,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:14 PM UTC-04:00",
+      "volume": 41939
+    },
+    {
+      "price": 300.04,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:15 PM UTC-04:00",
+      "volume": 21292
+    },
+    {
+      "price": 299.93,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:16 PM UTC-04:00",
+      "volume": 54927
+    },
+    {
+      "price": 300.29,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:17 PM UTC-04:00",
+      "volume": 48374
+    },
+    {
+      "price": 300.1801,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:18 PM UTC-04:00",
+      "volume": 19020
+    },
+    {
+      "price": 300.11,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:19 PM UTC-04:00",
+      "volume": 25605
+    },
+    {
+      "price": 300.27,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:20 PM UTC-04:00",
+      "volume": 16212
+    },
+    {
+      "price": 300.16,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:21 PM UTC-04:00",
+      "volume": 25327
+    },
+    {
+      "price": 300.045,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:22 PM UTC-04:00",
+      "volume": 17101
+    },
+    {
+      "price": 299.68,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:23 PM UTC-04:00",
+      "volume": 47563
+    },
+    {
+      "price": 300.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:24 PM UTC-04:00",
+      "volume": 26338
+    },
+    {
+      "price": 299.77,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:25 PM UTC-04:00",
+      "volume": 22137
+    },
+    {
+      "price": 299.945,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:26 PM UTC-04:00",
+      "volume": 44220
+    },
+    {
+      "price": 299.895,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:27 PM UTC-04:00",
+      "volume": 17351
+    },
+    {
+      "price": 300.1,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:28 PM UTC-04:00",
+      "volume": 23915
+    },
+    {
+      "price": 299.785,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:29 PM UTC-04:00",
+      "volume": 29142
+    },
+    {
+      "price": 299.89,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:30 PM UTC-04:00",
+      "volume": 20497
+    },
+    {
+      "price": 299.66,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:31 PM UTC-04:00",
+      "volume": 17481
+    },
+    {
+      "price": 299.51,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:32 PM UTC-04:00",
+      "volume": 40291
+    },
+    {
+      "price": 299.6,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:33 PM UTC-04:00",
+      "volume": 26209
+    },
+    {
+      "price": 299.515,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:34 PM UTC-04:00",
+      "volume": 22579
+    },
+    {
+      "price": 299.365,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:35 PM UTC-04:00",
+      "volume": 12527
+    },
+    {
+      "price": 299.51,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:36 PM UTC-04:00",
+      "volume": 28614
+    },
+    {
+      "price": 299.21,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:37 PM UTC-04:00",
+      "volume": 34080
+    },
+    {
+      "price": 299.185,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:38 PM UTC-04:00",
+      "volume": 26540
+    },
+    {
+      "price": 299.36,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:39 PM UTC-04:00",
+      "volume": 16441
+    },
+    {
+      "price": 299.1801,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:40 PM UTC-04:00",
+      "volume": 12447
+    },
+    {
+      "price": 299.33,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:41 PM UTC-04:00",
+      "volume": 21630
+    },
+    {
+      "price": 299.15,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:42 PM UTC-04:00",
+      "volume": 38164
+    },
+    {
+      "price": 299.1191,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:43 PM UTC-04:00",
+      "volume": 15946
+    },
+    {
+      "price": 299.21,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:44 PM UTC-04:00",
+      "volume": 20741
+    },
+    {
+      "price": 298.89,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:45 PM UTC-04:00",
+      "volume": 42156
+    },
+    {
+      "price": 298.9899,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:46 PM UTC-04:00",
+      "volume": 22774
+    },
+    {
+      "price": 299.06,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:47 PM UTC-04:00",
+      "volume": 66246
+    },
+    {
+      "price": 299.138,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:48 PM UTC-04:00",
+      "volume": 36420
+    },
+    {
+      "price": 298.89,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:49 PM UTC-04:00",
+      "volume": 11259
+    },
+    {
+      "price": 298.86,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:50 PM UTC-04:00",
+      "volume": 42567
+    },
+    {
+      "price": 298.82,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:51 PM UTC-04:00",
+      "volume": 23373
+    },
+    {
+      "price": 298.75,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:52 PM UTC-04:00",
+      "volume": 28083
+    },
+    {
+      "price": 298.805,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:53 PM UTC-04:00",
+      "volume": 19436
+    },
+    {
+      "price": 298.9,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:54 PM UTC-04:00",
+      "volume": 21955
+    },
+    {
+      "price": 298.83,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:55 PM UTC-04:00",
+      "volume": 17184
+    },
+    {
+      "price": 298.85,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:56 PM UTC-04:00",
+      "volume": 42176
+    },
+    {
+      "price": 298.8,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:57 PM UTC-04:00",
+      "volume": 39186
+    },
+    {
+      "price": 298.915,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:58 PM UTC-04:00",
+      "volume": 29795
+    },
+    {
+      "price": 298.98,
+      "currency": "USD",
+      "date": "Mar 20 2026, 02:59 PM UTC-04:00",
+      "volume": 14399
+    },
+    {
+      "price": 299.04,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:00 PM UTC-04:00",
+      "volume": 25241
+    },
+    {
+      "price": 299.03,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:01 PM UTC-04:00",
+      "volume": 36108
+    },
+    {
+      "price": 299.05,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:02 PM UTC-04:00",
+      "volume": 25651
+    },
+    {
+      "price": 299.155,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:03 PM UTC-04:00",
+      "volume": 17288
+    },
+    {
+      "price": 299.08,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:04 PM UTC-04:00",
+      "volume": 14778
+    },
+    {
+      "price": 298.935,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:05 PM UTC-04:00",
+      "volume": 29343
+    },
+    {
+      "price": 299.24,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:06 PM UTC-04:00",
+      "volume": 24716
+    },
+    {
+      "price": 299.3,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:07 PM UTC-04:00",
+      "volume": 27389
+    },
+    {
+      "price": 299.24,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:08 PM UTC-04:00",
+      "volume": 26597
+    },
+    {
+      "price": 299.305,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:09 PM UTC-04:00",
+      "volume": 17636
+    },
+    {
+      "price": 299.22,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:10 PM UTC-04:00",
+      "volume": 22102
+    },
+    {
+      "price": 299.08,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:11 PM UTC-04:00",
+      "volume": 21405
+    },
+    {
+      "price": 299.16,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:12 PM UTC-04:00",
+      "volume": 24259
+    },
+    {
+      "price": 299.24,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:13 PM UTC-04:00",
+      "volume": 26308
+    },
+    {
+      "price": 299.12,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:14 PM UTC-04:00",
+      "volume": 14554
+    },
+    {
+      "price": 299.21,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:15 PM UTC-04:00",
+      "volume": 22211
+    },
+    {
+      "price": 299.32,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:16 PM UTC-04:00",
+      "volume": 20796
+    },
+    {
+      "price": 299.24,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:17 PM UTC-04:00",
+      "volume": 9119
+    },
+    {
+      "price": 299.255,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:18 PM UTC-04:00",
+      "volume": 19437
+    },
+    {
+      "price": 299.23,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:19 PM UTC-04:00",
+      "volume": 11904
+    },
+    {
+      "price": 299.46,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:20 PM UTC-04:00",
+      "volume": 22974
+    },
+    {
+      "price": 299.37,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:21 PM UTC-04:00",
+      "volume": 17311
+    },
+    {
+      "price": 299.44,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:22 PM UTC-04:00",
+      "volume": 19205
+    },
+    {
+      "price": 299.505,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:23 PM UTC-04:00",
+      "volume": 34939
+    },
+    {
+      "price": 299.38,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:24 PM UTC-04:00",
+      "volume": 39014
+    },
+    {
+      "price": 299.21,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:25 PM UTC-04:00",
+      "volume": 40692
+    },
+    {
+      "price": 299.5,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:26 PM UTC-04:00",
+      "volume": 30947
+    },
+    {
+      "price": 299.66,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:27 PM UTC-04:00",
+      "volume": 27019
+    },
+    {
+      "price": 299.54,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:28 PM UTC-04:00",
+      "volume": 33207
+    },
+    {
+      "price": 299.63,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:29 PM UTC-04:00",
+      "volume": 47469
+    },
+    {
+      "price": 299.63,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:30 PM UTC-04:00",
+      "volume": 33222
+    },
+    {
+      "price": 299.53,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:31 PM UTC-04:00",
+      "volume": 28407
+    },
+    {
+      "price": 299.54,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:32 PM UTC-04:00",
+      "volume": 44305
+    },
+    {
+      "price": 299.395,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:33 PM UTC-04:00",
+      "volume": 37356
+    },
+    {
+      "price": 299.12,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:34 PM UTC-04:00",
+      "volume": 24365
+    },
+    {
+      "price": 298.96,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:35 PM UTC-04:00",
+      "volume": 47698
+    },
+    {
+      "price": 298.89,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:36 PM UTC-04:00",
+      "volume": 36888
+    },
+    {
+      "price": 298.59,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:37 PM UTC-04:00",
+      "volume": 55045
+    },
+    {
+      "price": 298.38,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:38 PM UTC-04:00",
+      "volume": 52506
+    },
+    {
+      "price": 298.605,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:39 PM UTC-04:00",
+      "volume": 44940
+    },
+    {
+      "price": 298.68,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:40 PM UTC-04:00",
+      "volume": 47984
+    },
+    {
+      "price": 298.505,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:41 PM UTC-04:00",
+      "volume": 74388
+    },
+    {
+      "price": 298.825,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:42 PM UTC-04:00",
+      "volume": 60519
+    },
+    {
+      "price": 298.6,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:43 PM UTC-04:00",
+      "volume": 25936
+    },
+    {
+      "price": 298.81,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:44 PM UTC-04:00",
+      "volume": 50394
+    },
+    {
+      "price": 299.14,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:45 PM UTC-04:00",
+      "volume": 67263
+    },
+    {
+      "price": 298.78,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:46 PM UTC-04:00",
+      "volume": 65275
+    },
+    {
+      "price": 298.935,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:47 PM UTC-04:00",
+      "volume": 112395
+    },
+    {
+      "price": 298.94,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:48 PM UTC-04:00",
+      "volume": 64169
+    },
+    {
+      "price": 298.87,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:49 PM UTC-04:00",
+      "volume": 65376
+    },
+    {
+      "price": 299.8,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:50 PM UTC-04:00",
+      "volume": 161466
+    },
+    {
+      "price": 300.36,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:51 PM UTC-04:00",
+      "volume": 460097
+    },
+    {
+      "price": 300.61,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:52 PM UTC-04:00",
+      "volume": 149511
+    },
+    {
+      "price": 301.18,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:53 PM UTC-04:00",
+      "volume": 190373
+    },
+    {
+      "price": 301.19,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:54 PM UTC-04:00",
+      "volume": 341201
+    },
+    {
+      "price": 301.675,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:55 PM UTC-04:00",
+      "volume": 264394
+    },
+    {
+      "price": 301.05,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:56 PM UTC-04:00",
+      "volume": 351115
+    },
+    {
+      "price": 301.06,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:57 PM UTC-04:00",
+      "volume": 25000
+    },
+    {
+      "price": 300.98,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:58 PM UTC-04:00",
+      "volume": 248348
+    },
+    {
+      "price": 300.9,
+      "currency": "USD",
+      "date": "Mar 20 2026, 03:59 PM UTC-04:00",
+      "volume": 300844
+    },
+    {
+      "price": 300.86,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:00 PM UTC-04:00",
+      "volume": 161749
+    },
+    {
+      "price": 300.86,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:00 PM UTC-04:00",
+      "volume": 161749,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:01 PM UTC-04:00",
+      "volume": 1926640,
+      "after_hours": true
+    },
+    {
+      "price": 301.06,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:02 PM UTC-04:00",
+      "volume": 20028,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:03 PM UTC-04:00",
+      "volume": 6976,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:04 PM UTC-04:00",
+      "volume": 4317,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:05 PM UTC-04:00",
+      "volume": 43902,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:06 PM UTC-04:00",
+      "volume": 281106,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:07 PM UTC-04:00",
+      "volume": 64361,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:08 PM UTC-04:00",
+      "volume": 671406,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:09 PM UTC-04:00",
+      "volume": 87309,
+      "after_hours": true
+    },
+    {
+      "price": 301.05,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:10 PM UTC-04:00",
+      "volume": 27368,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:11 PM UTC-04:00",
+      "volume": 79178,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:12 PM UTC-04:00",
+      "volume": 3493,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:13 PM UTC-04:00",
+      "volume": 800,
+      "after_hours": true
+    },
+    {
+      "price": 301.25,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:14 PM UTC-04:00",
+      "volume": 759,
+      "after_hours": true
+    },
+    {
+      "price": 301.26,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:15 PM UTC-04:00",
+      "volume": 133,
+      "after_hours": true
+    },
+    {
+      "price": 301.1201,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:16 PM UTC-04:00",
+      "volume": 160,
+      "after_hours": true
+    },
+    {
+      "price": 301.03,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:17 PM UTC-04:00",
+      "volume": 13689,
+      "after_hours": true
+    },
+    {
+      "price": 301.17,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:18 PM UTC-04:00",
+      "volume": 362,
+      "after_hours": true
+    },
+    {
+      "price": 300.8,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:19 PM UTC-04:00",
+      "volume": 4356,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:20 PM UTC-04:00",
+      "volume": 15077,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:21 PM UTC-04:00",
+      "volume": 255,
+      "after_hours": true
+    },
+    {
+      "price": 300.84,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:22 PM UTC-04:00",
+      "volume": 558,
+      "after_hours": true
+    },
+    {
+      "price": 300.91,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:23 PM UTC-04:00",
+      "volume": 439,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:24 PM UTC-04:00",
+      "volume": 543579,
+      "after_hours": true
+    },
+    {
+      "price": 300.85,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:25 PM UTC-04:00",
+      "volume": 460,
+      "after_hours": true
+    },
+    {
+      "price": 300.85,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:26 PM UTC-04:00",
+      "volume": 931,
+      "after_hours": true
+    },
+    {
+      "price": 300.91,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:27 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 300.85,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:28 PM UTC-04:00",
+      "volume": 703,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:31 PM UTC-04:00",
+      "volume": 567,
+      "after_hours": true
+    },
+    {
+      "price": 300.76,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:32 PM UTC-04:00",
+      "volume": 120,
+      "after_hours": true
+    },
+    {
+      "price": 301.1,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:33 PM UTC-04:00",
+      "volume": 400,
+      "after_hours": true
+    },
+    {
+      "price": 301.13,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:34 PM UTC-04:00",
+      "volume": 300,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:35 PM UTC-04:00",
+      "volume": 10268,
+      "after_hours": true
+    },
+    {
+      "price": 301.13,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:36 PM UTC-04:00",
+      "volume": 13943,
+      "after_hours": true
+    },
+    {
+      "price": 300.8,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:37 PM UTC-04:00",
+      "volume": 13006,
+      "after_hours": true
+    },
+    {
+      "price": 300.74,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:39 PM UTC-04:00",
+      "volume": 9573,
+      "after_hours": true
+    },
+    {
+      "price": 301.26,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:40 PM UTC-04:00",
+      "volume": 1270,
+      "after_hours": true
+    },
+    {
+      "price": 301.2601,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:41 PM UTC-04:00",
+      "volume": 5560,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:42 PM UTC-04:00",
+      "volume": 10316,
+      "after_hours": true
+    },
+    {
+      "price": 300.8981,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:43 PM UTC-04:00",
+      "volume": 560,
+      "after_hours": true
+    },
+    {
+      "price": 301.04,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:44 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 301.22,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:45 PM UTC-04:00",
+      "volume": 113,
+      "after_hours": true
+    },
+    {
+      "price": 301.49,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:46 PM UTC-04:00",
+      "volume": 973,
+      "after_hours": true
+    },
+    {
+      "price": 301.25,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:47 PM UTC-04:00",
+      "volume": 91574,
+      "after_hours": true
+    },
+    {
+      "price": 301.82,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:48 PM UTC-04:00",
+      "volume": 4264,
+      "after_hours": true
+    },
+    {
+      "price": 301.96,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:49 PM UTC-04:00",
+      "volume": 2884,
+      "after_hours": true
+    },
+    {
+      "price": 301.54,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:50 PM UTC-04:00",
+      "volume": 5115,
+      "after_hours": true
+    },
+    {
+      "price": 301.2,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:51 PM UTC-04:00",
+      "volume": 4242,
+      "after_hours": true
+    },
+    {
+      "price": 301.2,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:52 PM UTC-04:00",
+      "volume": 2852,
+      "after_hours": true
+    },
+    {
+      "price": 301.25,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:53 PM UTC-04:00",
+      "volume": 215,
+      "after_hours": true
+    },
+    {
+      "price": 301.25,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:54 PM UTC-04:00",
+      "volume": 2580,
+      "after_hours": true
+    },
+    {
+      "price": 301.4,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:55 PM UTC-04:00",
+      "volume": 153939,
+      "after_hours": true
+    },
+    {
+      "price": 301.35,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:56 PM UTC-04:00",
+      "volume": 4344,
+      "after_hours": true
+    },
+    {
+      "price": 301.36,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:57 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 301.38,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:58 PM UTC-04:00",
+      "volume": 447,
+      "after_hours": true
+    },
+    {
+      "price": 301.4,
+      "currency": "USD",
+      "date": "Mar 20 2026, 04:59 PM UTC-04:00",
+      "volume": 716,
+      "after_hours": true
+    },
+    {
+      "price": 301.25,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:00 PM UTC-04:00",
+      "volume": 1242,
+      "after_hours": true
+    },
+    {
+      "price": 301.25,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:01 PM UTC-04:00",
+      "volume": 4112,
+      "after_hours": true
+    },
+    {
+      "price": 301.07,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:03 PM UTC-04:00",
+      "volume": 580,
+      "after_hours": true
+    },
+    {
+      "price": 301.07,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:04 PM UTC-04:00",
+      "volume": 310,
+      "after_hours": true
+    },
+    {
+      "price": 301.16,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:05 PM UTC-04:00",
+      "volume": 600,
+      "after_hours": true
+    },
+    {
+      "price": 301.16,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:06 PM UTC-04:00",
+      "volume": 500,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:07 PM UTC-04:00",
+      "volume": 2605,
+      "after_hours": true
+    },
+    {
+      "price": 301.1,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:08 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:09 PM UTC-04:00",
+      "volume": 1215,
+      "after_hours": true
+    },
+    {
+      "price": 300.9,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:10 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 300.8533,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:11 PM UTC-04:00",
+      "volume": 199,
+      "after_hours": true
+    },
+    {
+      "price": 300.85,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:12 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 303.5,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:14 PM UTC-04:00",
+      "volume": 8253,
+      "after_hours": true
+    },
+    {
+      "price": 302.45,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:15 PM UTC-04:00",
+      "volume": 1167,
+      "after_hours": true
+    },
+    {
+      "price": 302.89,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:16 PM UTC-04:00",
+      "volume": 3476,
+      "after_hours": true
+    },
+    {
+      "price": 302.95,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:17 PM UTC-04:00",
+      "volume": 1171,
+      "after_hours": true
+    },
+    {
+      "price": 302.53,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:19 PM UTC-04:00",
+      "volume": 1662,
+      "after_hours": true
+    },
+    {
+      "price": 302.53,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:20 PM UTC-04:00",
+      "volume": 590,
+      "after_hours": true
+    },
+    {
+      "price": 302.29,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:21 PM UTC-04:00",
+      "volume": 251,
+      "after_hours": true
+    },
+    {
+      "price": 302.42,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:24 PM UTC-04:00",
+      "volume": 528,
+      "after_hours": true
+    },
+    {
+      "price": 302.47,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:25 PM UTC-04:00",
+      "volume": 991,
+      "after_hours": true
+    },
+    {
+      "price": 302.46,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:26 PM UTC-04:00",
+      "volume": 1276,
+      "after_hours": true
+    },
+    {
+      "price": 302.7,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:27 PM UTC-04:00",
+      "volume": 900,
+      "after_hours": true
+    },
+    {
+      "price": 302.4,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:28 PM UTC-04:00",
+      "volume": 802,
+      "after_hours": true
+    },
+    {
+      "price": 302.35,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:29 PM UTC-04:00",
+      "volume": 577,
+      "after_hours": true
+    },
+    {
+      "price": 302.1,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:31 PM UTC-04:00",
+      "volume": 267,
+      "after_hours": true
+    },
+    {
+      "price": 302.25,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:32 PM UTC-04:00",
+      "volume": 1363,
+      "after_hours": true
+    },
+    {
+      "price": 301.8572,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:33 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 301.9485,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:35 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 301.86,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:37 PM UTC-04:00",
+      "volume": 200,
+      "after_hours": true
+    },
+    {
+      "price": 302.05,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:38 PM UTC-04:00",
+      "volume": 200,
+      "after_hours": true
+    },
+    {
+      "price": 302.3,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:43 PM UTC-04:00",
+      "volume": 1037,
+      "after_hours": true
+    },
+    {
+      "price": 302.063,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:46 PM UTC-04:00",
+      "volume": 250,
+      "after_hours": true
+    },
+    {
+      "price": 302.126,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:47 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 302.3,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:48 PM UTC-04:00",
+      "volume": 995,
+      "after_hours": true
+    },
+    {
+      "price": 302.29,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:49 PM UTC-04:00",
+      "volume": 400,
+      "after_hours": true
+    },
+    {
+      "price": 302.25,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:50 PM UTC-04:00",
+      "volume": 6100,
+      "after_hours": true
+    },
+    {
+      "price": 302.3825,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:51 PM UTC-04:00",
+      "volume": 648,
+      "after_hours": true
+    },
+    {
+      "price": 302.55,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:53 PM UTC-04:00",
+      "volume": 445,
+      "after_hours": true
+    },
+    {
+      "price": 302.3,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:54 PM UTC-04:00",
+      "volume": 1000,
+      "after_hours": true
+    },
+    {
+      "price": 302.56,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:57 PM UTC-04:00",
+      "volume": 239,
+      "after_hours": true
+    },
+    {
+      "price": 300.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:58 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 301.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 05:59 PM UTC-04:00",
+      "volume": 706,
+      "after_hours": true
+    },
+    {
+      "price": 302.52,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:00 PM UTC-04:00",
+      "volume": 358,
+      "after_hours": true
+    },
+    {
+      "price": 302.7,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:02 PM UTC-04:00",
+      "volume": 1494,
+      "after_hours": true
+    },
+    {
+      "price": 302.75,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:03 PM UTC-04:00",
+      "volume": 705,
+      "after_hours": true
+    },
+    {
+      "price": 302.79,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:05 PM UTC-04:00",
+      "volume": 554,
+      "after_hours": true
+    },
+    {
+      "price": 302.7,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:07 PM UTC-04:00",
+      "volume": 350,
+      "after_hours": true
+    },
+    {
+      "price": 302.79,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:08 PM UTC-04:00",
+      "volume": 334,
+      "after_hours": true
+    },
+    {
+      "price": 302.8549,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:09 PM UTC-04:00",
+      "volume": 300,
+      "after_hours": true
+    },
+    {
+      "price": 302.78,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:10 PM UTC-04:00",
+      "volume": 500,
+      "after_hours": true
+    },
+    {
+      "price": 302.78,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:11 PM UTC-04:00",
+      "volume": 2847,
+      "after_hours": true
+    },
+    {
+      "price": 302.98,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:12 PM UTC-04:00",
+      "volume": 242,
+      "after_hours": true
+    },
+    {
+      "price": 303.35,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:13 PM UTC-04:00",
+      "volume": 801,
+      "after_hours": true
+    },
+    {
+      "price": 303.13,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:15 PM UTC-04:00",
+      "volume": 147,
+      "after_hours": true
+    },
+    {
+      "price": 303.2,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:17 PM UTC-04:00",
+      "volume": 367,
+      "after_hours": true
+    },
+    {
+      "price": 303.1,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:18 PM UTC-04:00",
+      "volume": 600,
+      "after_hours": true
+    },
+    {
+      "price": 303.01,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:19 PM UTC-04:00",
+      "volume": 1000,
+      "after_hours": true
+    },
+    {
+      "price": 303.2,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:20 PM UTC-04:00",
+      "volume": 1499,
+      "after_hours": true
+    },
+    {
+      "price": 302.92,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:21 PM UTC-04:00",
+      "volume": 1200,
+      "after_hours": true
+    },
+    {
+      "price": 302.9597,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:23 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 302.96,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:25 PM UTC-04:00",
+      "volume": 500,
+      "after_hours": true
+    },
+    {
+      "price": 303.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:27 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 302.86,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:31 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 302.65,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:32 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 302.71,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:33 PM UTC-04:00",
+      "volume": 400,
+      "after_hours": true
+    },
+    {
+      "price": 302.81,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:41 PM UTC-04:00",
+      "volume": 676,
+      "after_hours": true
+    },
+    {
+      "price": 303.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:43 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 302.6955,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:45 PM UTC-04:00",
+      "volume": 200,
+      "after_hours": true
+    },
+    {
+      "price": 302.7,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:47 PM UTC-04:00",
+      "volume": 149,
+      "after_hours": true
+    },
+    {
+      "price": 302.6942,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:48 PM UTC-04:00",
+      "volume": 182,
+      "after_hours": true
+    },
+    {
+      "price": 302.65,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:51 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 302.35,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:53 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 302.49,
+      "currency": "USD",
+      "date": "Mar 20 2026, 06:59 PM UTC-04:00",
+      "volume": 200,
+      "after_hours": true
+    },
+    {
+      "price": 302.49,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:03 PM UTC-04:00",
+      "volume": 342,
+      "after_hours": true
+    },
+    {
+      "price": 302.5,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:04 PM UTC-04:00",
+      "volume": 872,
+      "after_hours": true
+    },
+    {
+      "price": 302.75,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:06 PM UTC-04:00",
+      "volume": 128,
+      "after_hours": true
+    },
+    {
+      "price": 302.75,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:08 PM UTC-04:00",
+      "volume": 777,
+      "after_hours": true
+    },
+    {
+      "price": 302.955,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:17 PM UTC-04:00",
+      "volume": 238,
+      "after_hours": true
+    },
+    {
+      "price": 302.86,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:18 PM UTC-04:00",
+      "volume": 238,
+      "after_hours": true
+    },
+    {
+      "price": 303.0,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:20 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 302.82,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:21 PM UTC-04:00",
+      "volume": 400,
+      "after_hours": true
+    },
+    {
+      "price": 302.77,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:24 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 302.9,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:26 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 302.9,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:29 PM UTC-04:00",
+      "volume": 174,
+      "after_hours": true
+    },
+    {
+      "price": 302.77,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:30 PM UTC-04:00",
+      "volume": 390,
+      "after_hours": true
+    },
+    {
+      "price": 302.65,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:32 PM UTC-04:00",
+      "volume": 399,
+      "after_hours": true
+    },
+    {
+      "price": 302.77,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:33 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 302.83,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:36 PM UTC-04:00",
+      "volume": 100,
+      "after_hours": true
+    },
+    {
+      "price": 302.6,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:42 PM UTC-04:00",
+      "volume": 500,
+      "after_hours": true
+    },
+    {
+      "price": 302.4,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:46 PM UTC-04:00",
+      "volume": 252,
+      "after_hours": true
+    },
+    {
+      "price": 302.83,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:54 PM UTC-04:00",
+      "volume": 900,
+      "after_hours": true
+    },
+    {
+      "price": 302.6,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:55 PM UTC-04:00",
+      "volume": 400,
+      "after_hours": true
+    },
+    {
+      "price": 302.7,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:56 PM UTC-04:00",
+      "volume": 700,
+      "after_hours": true
+    },
+    {
+      "price": 302.75,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:58 PM UTC-04:00",
+      "volume": 1265,
+      "after_hours": true
+    },
+    {
+      "price": 302.75,
+      "currency": "USD",
+      "date": "Mar 20 2026, 07:59 PM UTC-04:00",
+      "volume": 305,
+      "after_hours": true
+    },
+    {
+      "price": 302.58,
+      "currency": "USD",
+      "date": "Mar 20 2026, 08:00 PM UTC-04:00",
+      "after_hours": true
+    }
+  ],
+  "summary": {
+    "title": "Alphabet Inc Class A",
+    "stock": "GOOGL",
+    "exchange": "NASDAQ",
+    "price": "USD301",
+    "extracted_price": 301,
+    "currency": "USD",
+    "price_movement": {
+      "percentage": 0,
+      "value": 0
+    },
+    "date": "Mar 23 2026, 09:13:58 AM UTC-04:00",
+    "market": {
+      "price": "USD304.5886",
+      "extracted_price": 304.5886,
+      "currency": "USD",
+      "price_movement": {
+        "percentage": 1.1922234,
+        "value": 3.5885925,
+        "movement": "Up"
+      }
+    },
+    "extensions": [
+      "Mar 23, 09:13:58 AM UTC-4",
+      "USD",
+      "NASDAQ"
+    ]
+  }
+}
