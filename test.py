@@ -4,15 +4,18 @@ import serpapi
 #https://serpapi.com/playground?engine=google_finance&q=GOOGL%3ANASDAQ&hl=pt-br&window=1D
 #https://serpapi.com/google-finance-api
 
+with open("config.json", "r") as config_file:
+    config = json.load(config_file)
 
-client = serpapi.Client(api_key="3ea5d182282942a7355b9d38a88bf0dccb2ffd7b7211e104027260dba406c51f")
+client = serpapi.Client(api_key=config["api_key"])
+
 results = client.search({
   "engine": "google_finance",
   "q": "GOOGL:NASDAQ",
   "hl": "pt-br",
   "window": "1D"
-
 })
 
 with open("results.json", "w") as file:
-    json.dump(results.data, file, indent=2) 
+    json.dump(results.data, file, indent=2)
+    
